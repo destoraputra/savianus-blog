@@ -1,7 +1,7 @@
 ---
 title: Savianus Wandew Destora Putra
 role: Teknik Informatika Yogyakarta
-avatar_filename: ""
+avatar_filename: wandew.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 social: []
