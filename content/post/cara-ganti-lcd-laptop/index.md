@@ -9,8 +9,6 @@ image:
   focal_point: ""
   preview_only: false
 ---
-
-
 <!--StartFragment-->
 
 Laptop merupakan salah satu peralatan elektronik yang sering digunakan dalam kehidupan sehari-hari. Baik untuk pekerjaan, belajar, dan kegiatan hiburan. Mungkin, Anda sudah berusaha untuk melakukan beberapa cara menjaga laptop agar tidak cepat rusak. Namun, seiring dengan bertambahnya usia pemakaian laptop, kerusakan kemungkinan besar akan terjadi pada komponen-komponen laptop. Salah satu komponen yang akan mengalami kerusakan pada laptop adalah layar atau LCD.
@@ -77,5 +75,4 @@ Bagi Anda yang sudah mengerti mengenai seluk-beluk perangkat keras atau hardware
 
 Sekian artikel kami kali ini mengenai cara mengganti LCD laptop. Ternyata, jika Anda mengikuti petunjuk yang telah kami berikan di atas, sebenarnya mengganti LCD laptop sangat mudah untuk dilakukan. Agar LCD laptop Anda terjaga keawetannya, sebaiknya Anda tahu cara membersihkan LCD laptop dengan benar. Semoga artikel kami dapat membantu Anda untuk mengganti LCD laptop dengan baik dan benar.
 
-* *\
-  <!--EndFragment-->*
+* \*\
