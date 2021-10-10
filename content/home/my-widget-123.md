@@ -1,6 +1,6 @@
 ---
-widget: dasd
-widget_id: my-widget-123
+widget: HOME
+widget_id: RECENT-POSTS
 headless: true
 weight: 10
 active: true
